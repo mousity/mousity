@@ -26,7 +26,6 @@
 
 - :computer: I'm a Fullstack Developer currently attending NYC's Tech Talent Pipeline Program
 - :hourglass_flowing_sand: If you have any questions or would like to collaborate, feel free to reach out to me through GitHub
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"\\
 
 <h2 align="left">Looking to Connect?</h2>
 <h4>Contact me through these mediums!</h4>
