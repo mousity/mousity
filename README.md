@@ -24,7 +24,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer currently attending NYC's Tech Talent Pipeline Program
+- :computer: I'm a Fullstack Developer currently in school for Computer Science! Estimated grad date: Spring 2025
 - :hourglass_flowing_sand: If you have any questions or would like to collaborate, feel free to reach out to me through GitHub
 
 <h2 align="left">Looking to Connect?</h2>
