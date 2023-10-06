@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>I'm Summer!
+  I'm Summer!
   <h4>Passionate Full Stack Web Developer from NY</h4>
  </abc>
   <br>
