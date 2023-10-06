@@ -1,11 +1,10 @@
 <h2 align="left">
  <abc>
-  <br>I'm Summer!</br>
+  <br>I'm Summer!
   <h4>Passionate Full Stack Web Developer from NY</h4>
  </abc>
   <br>
     <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" alt="Coder GIF" width="500">
-</br>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
