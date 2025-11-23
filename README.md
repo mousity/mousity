@@ -26,7 +26,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a recently graduated Fullstack Developer with a B.S. in Computer Science! June 2025
-- :video_game: Currently learning some game dev
+- :video_game: Currently learning some game dev and .NET
 - :hourglass_flowing_sand: If you have any questions or would like to collaborate, feel free to reach out to me through GitHub
 
 <h2 align="left">Looking to Connect?</h2>
